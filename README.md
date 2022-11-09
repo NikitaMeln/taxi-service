@@ -1,4 +1,4 @@
-﻿![screenshot of sample](C:\Users\bam19\IdeaProjects\taxi-service\ext\images.png)
+<img src="ext\images.png" align="right" />
 <h1>Taxi-Service</h1>
 Service for managing the company's taxi fleet.
 
@@ -39,7 +39,8 @@ by clicking on the appropriate link on the main page.
 
 ☼ Below is a diagram of how the application works
 
-![screenshot of sample](taxi-service/ext/Struccture.jpg)
+<img src="ext\Struccture.jpg" align="right" />
+
 
 
  
